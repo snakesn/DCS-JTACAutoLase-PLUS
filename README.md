@@ -15,6 +15,7 @@ From                          			http://lua-users.org/wiki/SimpleRound
 7. Добавлен таймер подсвета 
 
 **Пример:**
+
 **JTACAutoLase(       'JTAC1', 1688, true , "all" , 2 , "all", 30)** 
 Параметры:
 
@@ -37,5 +38,6 @@ From                          			http://lua-users.org/wiki/SimpleRound
 Пример:
 Указываете имя группы JTAC и дистанцию (м.) зоны радиосвязи (меню)
 
-**InZone('JTAC1',23000)
-StopInZone('JTAC1') - Остановка функции InZone для указанного JTAC**
+**InZone('JTAC1',23000)**
+
+**StopInZone('JTAC1')** - Остановка функции InZone для указанного JTAC
