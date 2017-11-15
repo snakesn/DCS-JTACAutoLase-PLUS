@@ -36,5 +36,5 @@ From                          			http://lua-users.org/wiki/SimpleRound
 
 Пример:
 Указываете имя группы JTAC и дистанцию (м.) зоны радиосвязи (меню)
-**InZone       ( 'JTAC1',                    23000)
+**InZone('JTAC1',23000)
 StopInZone('JTAC1') - Остановка функции InZone для указанного JTAC**
