@@ -1,4 +1,4 @@
-### JTACAutoLase PLUS 1.2 Beta by Eagle86
+### JTACAutoLase PLUS 1.2.4 Beta by Eagle86
 
 Использован код из скриптов:
 Основной код - JTACAutoLase	https://github.com/ciribob/DCS-JTACAutoLaze          
@@ -46,9 +46,9 @@ From                          			http://lua-users.org/wiki/SimpleRound
 Добавлена функция разведки в меню.
 
 Пример:
-Указываете имя группы JTAC и дистанцию (м.) зоны радиосвязи (меню)
+Указываете имя группы JTAC, радиус (м.) зоны радиосвязи (меню), радиус (м.) зоны разведки, время подсвета 
 
-**InZone('JTAC1',23000)**
+**InZone( 'JTAC1',23000, 8000, 180)**
 
 **StopInZone('JTAC1')** - Остановка функции InZone для указанного JTAC
 
