@@ -1,4 +1,4 @@
-### JTACAutoLase PLUS 1.2.4 Beta by Eagle86
+### JTAC AutoLase PLUS 1.2.4 Beta by Eagle86
 
 Использован код из скриптов:
 Основной код - JTACAutoLase	https://github.com/ciribob/DCS-JTACAutoLaze          
