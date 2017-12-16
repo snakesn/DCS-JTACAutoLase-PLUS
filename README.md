@@ -2,8 +2,6 @@
 
 Использован код из скриптов:
 Основной код - JTACAutoLase	https://github.com/ciribob/DCS-JTACAutoLaze          
-Mission Scripting Tools  			https://github.com/mrSkortch/MissionScriptingTools/blob/master/mist.lua
-From                          			http://lua-users.org/wiki/SimpleRound
 
 Добавлено:
 1. Сообщения переведены на русский язык
